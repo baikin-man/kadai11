@@ -1,10 +1,20 @@
 div {
-    background-color: slategray;
+    background-color: red;
     color: white;
 }
 
+<<<<<<< HEAD
 .tanamachi-box {
   background-color: #FF00FF; /* 背景色：マゼンタ */
   color: #000000;            /* 文字色：黒 */
   
 }
+=======
+ page1_branch
+
+#page4{
+    background-color: aquamarine;
+    color: black;
+}
+ main
+>>>>>>> 0a35edd462a8ea1a1842922ece245ffe6892d945
