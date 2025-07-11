@@ -3,6 +3,13 @@ div {
     color: white;
 }
 
+
+.tanamachi-box {
+  background-color: #FF00FF; /* 背景色：マゼンタ */
+  color: #000000;            /* 文字色：黒 */
+  
+}
+=======
  page1_branch
 
 #page4{
@@ -10,7 +17,11 @@ div {
     color: black;
 }
 
+ main
+=======
+
 #page3{
     background-color: rgb(82, 136, 244);
     color: black;
 }
+
