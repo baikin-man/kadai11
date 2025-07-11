@@ -1,4 +1,9 @@
 div {
-    background-color: slategray;
+    background-color: red;
     color: white;
+}
+
+#page4{
+    background-color: aquamarine;
+    color: black;
 }
